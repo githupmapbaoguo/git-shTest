@@ -10,7 +10,7 @@ hello nihao
 hello nihao
 hello nihao
 hello nihao
-hello nihao
+hello nihao     lai
 hello nihao     ###################
 hello nihaoi    ******************
 hello nihao     &&&&&&&&&&&&&&&&&&&&&&
